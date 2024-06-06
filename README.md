@@ -1,10 +1,8 @@
-![logo align="center"](https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif)
+![logo width=100vw](https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif)
 <h1 align="center">Hi 👋, I'm Rishikesh Rahane</h1>
 <h3 align="center">A passionate Mern Stack developer from India</h3>
 <img alt="gif" align="right" src="https://devtechnosys.com/insights/wp-content/uploads/2023/01/MERN-Stack.gif" />
 
-<h1 align="center">Hi 👋, I'm Rishikesh Rahane</h1>
-<h3 align="center">A passionate Mern Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikesh-rahane&label=Profile%20views&color=0e75b6&style=flat" alt="rishikesh-rahane" /> </p>
 
